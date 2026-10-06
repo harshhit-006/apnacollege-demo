@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author :- Harshhit Singh Gupta the great the only one Maharaja
+Author :- Harshhit Singh Gupta the great the only one Maharaja the best
